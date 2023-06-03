@@ -4,23 +4,23 @@ This repository contains my personal collection of study materials, assignments,
 
 ## Table of Contents
 
-- [Semester 1](#Semester 1)
-- [Semester 2](#Semester 2)
+- [Semester 1](#semester-1)
+- [Semester 2](#semester-2)
 
 ## Semester 1
 
 This section contains study materials organized for Semester 1 of my M.Tech Software Engineering program.
 
-- [Agile Software Processes](Semester 1/Agile Software Processes)
-- [Cloud Computing](Semester 1/Cloud Computing)
-- [Introduction to DevOps](Semester 1/Introduction to DevOps)
-- [Software Architectures](Semester 1/Software Architectures)
+- [Agile Software Processes](Semester%201/Agile%20Software%20Processes)
+- [Cloud Computing](Semester%201/Cloud%20Computing)
+- [Introduction to DevOps](Semester%201/Introduction%20to%20DevOps)
+- [Software Architectures](Semester%201/Software%20Architectures)
 
 ## Semester 2
 
 This section contains study materials organized for Semester 2 of my M.Tech Software Engineering program.
 
-- [Blockchain Technologies and Systems](Semester 2/Blockchain Technologies and Systems)
-- [Cross Platform Application Development](Semester 2/Cross Platform Application Development)
-- [Software Product Management](Semester 2/Software Product Management)
-- [Software Testing Methodologies](Semester 2/Software Testing Methodologies)
+- [Blockchain Technologies and Systems](Semester%202/Blockchain%20Technologies%20and%20Systems)
+- [Cross Platform Application Development](Semester%202/Cross%20Platform%20Application%20Development)
+- [Software Product Management](Semester%202/Software%20Product%20Management)
+- [Software Testing Methodologies](Semester%202/Software%20Testing%20Methodologies)
