@@ -6,6 +6,7 @@ This repository contains my personal collection of study materials, assignments,
 
 - [Semester 1](#semester-1)
 - [Semester 2](#semester-2)
+- [Semester 3](#semester-3)
 
 ## Semester 1
 
@@ -24,3 +25,23 @@ This section contains study materials organized for Semester 2 of my M.Tech Soft
 - [Cross Platform Application Development](Semester%202/Cross%20Platform%20Application%20Development)
 - [Software Product Management](Semester%202/Software%20Product%20Management)
 - [Software Testing Methodologies](Semester%202/Software%20Testing%20Methodologies)
+
+## Semester 3
+
+This section contains study materials organized for Semester 3 of my M.Tech Software Engineering program.
+
+- [Cyber Security](Semester%203/Cyberr%20Security)
+- [Open Source Software Engineering](Semester%203/Open%20Source%20Software%20Engineering)
+- [Scalable Services](Semester%203/Scalable%20Services)
+- [Secure Software Engineering](Semester%203/Secure%20Software%20Engineering)
+
+## Contact
+
+For any inquiries related to this repository, please contact me:
+
+- Email: pavithraselvaraj2510@gmail.com
+- LinkedIn: [Pavithra Selvaraj](www.linkedin.com/in/pavithra-selvaraj-thangaraj)
+
+## Acknowledgments
+
+- If you find this repository helpful, consider giving it a star!
